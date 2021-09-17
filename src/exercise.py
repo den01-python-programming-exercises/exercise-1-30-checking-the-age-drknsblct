@@ -3,7 +3,7 @@ def main():
     age = int(input('How old are you?'))
     
     if 0 <= age <= 120:
-        print('Ok')
+        print('OK')
     else:
         print('Impossible!')
 
